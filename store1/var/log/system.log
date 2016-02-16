@@ -1,0 +1,446 @@
+2016-01-08T05:31:44+00:00 CRIT (2): Not valid template file:frontend/base/default/template/magentothem/upsellslider/upsell.phtml
+2016-01-08T05:51:12+00:00 CRIT (2): Not valid template file:frontend/base/default/template/magentothem/upsellslider/upsell.phtml
+2016-01-08T05:52:26+00:00 CRIT (2): Not valid template file:frontend/base/default/template/magentothem/upsellslider/upsell.phtml
+2016-01-08T06:14:48+00:00 CRIT (2): Not valid template file:frontend/base/default/template/magentothem/upsellslider/upsell.phtml
+2016-01-08T06:21:55+00:00 CRIT (2): Not valid template file:frontend/base/default/template/magentothem/upsellslider/upsell.phtml
+2016-01-08T20:38:47+00:00 CRIT (2): Not valid template file:frontend/base/default/template/magentothem/upsellslider/upsell.phtml
+2016-01-20T16:01:12+00:00 CRIT (2): Not valid template file:frontend/base/default/template/magentothem/upsellslider/upsell.phtml
+2016-01-30T23:34:18+00:00 CRIT (2): Not valid template file:frontend/base/default/template/magentothem/upsellslider/upsell.phtml
+2016-02-06T19:59:47+00:00 CRIT (2): Not valid template file:frontend/base/default/template/magentothem/upsellslider/upsell.phtml
+2016-02-09T00:05:48+00:00 ERR (3): Notice: Undefined index: store_ids  in /home4/newfireg/public_html/store1/app/code/local/Magentothem/Installtemplate/controllers/Adminhtml/InstalltemplateController.php on line 41
+2016-02-09T00:05:48+00:00 ERR (3): Recoverable Error: Argument 1 passed to Magentothem_Installtemplate_Model_Installtemplate::saveTemplateConfig() must be an instance of int, integer given, called in /home4/newfireg/public_html/store1/app/code/local/Magentothem/Installtemplate/controllers/Adminhtml/InstalltemplateController.php on line 53 and defined  in /home4/newfireg/public_html/store1/app/code/local/Magentothem/Installtemplate/Model/Installtemplate.php on line 34
+2016-02-09T00:05:48+00:00 ERR (3): Recoverable Error: Argument 1 passed to Magentothem_Installtemplate_Model_Installtemplate::saveTemplateConfig() must be an instance of int, string given, called in /home4/newfireg/public_html/store1/app/code/local/Magentothem/Installtemplate/controllers/Adminhtml/InstalltemplateController.php on line 53 and defined  in /home4/newfireg/public_html/store1/app/code/local/Magentothem/Installtemplate/Model/Installtemplate.php on line 34
+2016-02-09T00:05:49+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found  in /home4/newfireg/public_html/store1/lib/Varien/Simplexml/Config.php on line 510
+2016-02-09T00:05:49+00:00 ERR (3): Warning: simplexml_load_string(): /home4/newfireg/public_html/store1/app/code/local/Magentothem/Installtemplate/Bl  in /home4/newfireg/public_html/store1/lib/Varien/Simplexml/Config.php on line 510
+2016-02-09T00:05:49+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /home4/newfireg/public_html/store1/lib/Varien/Simplexml/Config.php on line 510
+2016-02-09T00:05:49+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /home4/newfireg/public_html/store1/app/code/local/Magentothem/Installtemplate/Helper/Data.php on line 8
+2016-02-09T00:05:49+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found  in /home4/newfireg/public_html/store1/lib/Varien/Simplexml/Config.php on line 510
+2016-02-09T00:05:49+00:00 ERR (3): Warning: simplexml_load_string(): /home4/newfireg/public_html/store1/app/code/local/Magentothem/Installtemplate/Bl  in /home4/newfireg/public_html/store1/lib/Varien/Simplexml/Config.php on line 510
+2016-02-09T00:05:49+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /home4/newfireg/public_html/store1/lib/Varien/Simplexml/Config.php on line 510
+2016-02-09T00:05:49+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /home4/newfireg/public_html/store1/app/code/local/Magentothem/Installtemplate/Helper/Data.php on line 8
+2016-02-09T00:13:11+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:13:11+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:13:11+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:13:12+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:13:12+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:13:12+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:13:15+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:13:16+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:13:16+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:13:25+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:13:25+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:13:25+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:15:36+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:15:36+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:15:36+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:15:37+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:15:37+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:15:37+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:18:02+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:18:02+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:18:02+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:18:02+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:18:03+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:18:03+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:18:17+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:18:17+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:18:17+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:18:18+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:18:18+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:18:18+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:18:21+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:18:21+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:18:21+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:18:26+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:18:26+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:18:26+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:18:48+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:18:48+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:18:48+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:18:49+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:18:49+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:18:49+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:18:59+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:18:59+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:18:59+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:19:00+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:19:00+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:19:00+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:19:24+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:19:24+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:19:24+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:19:25+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:19:25+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:19:25+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:20:15+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:20:15+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:20:15+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:20:16+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:20:16+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:20:16+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:20:53+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:20:53+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:20:53+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:20:53+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:20:53+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:20:53+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:21:06+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:21:07+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:21:07+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:21:07+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:21:07+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:21:07+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:21:24+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:21:24+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:21:24+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:21:25+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:21:25+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:21:25+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:21:42+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:21:42+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:21:42+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:21:42+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:21:42+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:21:42+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:22:20+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:22:20+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:22:20+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:22:20+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:22:21+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:22:21+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:22:53+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:22:53+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:22:53+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:22:54+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:22:54+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:22:54+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:23:29+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:23:30+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:23:30+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:23:30+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:23:30+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:23:30+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:23:36+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:23:36+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:23:36+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:23:41+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:23:41+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:23:41+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:23:49+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:23:49+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:23:49+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:23:54+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:23:54+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:23:54+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:25:07+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:25:07+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:25:07+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:25:07+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:25:07+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:25:07+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:25:12+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:25:12+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:25:12+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:25:16+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:25:17+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:25:17+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:25:21+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:25:21+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:25:21+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:25:22+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:25:22+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:25:22+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:25:29+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:25:29+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:25:29+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:25:30+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:25:30+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:25:30+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:26:27+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:26:28+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:26:28+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:26:28+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:26:28+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:26:28+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:27:41+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:27:41+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:27:41+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:27:41+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:27:41+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:27:41+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:27:57+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:27:57+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:27:57+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:28:00+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:28:00+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:28:00+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:28:05+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:28:05+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:28:05+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:28:05+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:28:05+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:28:05+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:28:29+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:28:29+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:28:29+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:28:30+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:28:30+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:28:30+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:28:36+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:28:36+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:28:36+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:28:37+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:28:37+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:28:37+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:29:18+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:29:18+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:29:18+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:29:19+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:29:19+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:29:19+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:29:23+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:29:23+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:29:23+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:29:33+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:29:33+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:29:33+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:29:38+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:29:38+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:29:38+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:29:39+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:29:39+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:29:39+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:30:18+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:30:18+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:30:18+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:30:19+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:30:19+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:30:19+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:31:15+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:31:15+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:31:15+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:31:16+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:31:16+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:31:16+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:31:28+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:31:28+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:31:28+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:31:28+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:31:29+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:31:29+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:31:33+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:31:33+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:31:33+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:31:33+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:31:33+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:31:33+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:33:56+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:33:56+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:33:56+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:33:57+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:33:57+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:33:57+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:34:01+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:34:01+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:34:01+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:34:06+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:34:06+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:34:06+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:36:05+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:36:05+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:36:05+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:36:10+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:36:10+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:36:10+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:36:49+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:36:49+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:36:49+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:36:50+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:36:50+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:36:50+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:36:53+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:36:53+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:36:53+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:36:58+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:36:58+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:36:58+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:38:17+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:38:17+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:38:17+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:38:18+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:38:18+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:38:18+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:38:29+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:38:29+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:38:29+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:38:29+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:38:30+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:38:30+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:38:44+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:38:44+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:38:44+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:38:44+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:38:44+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:38:44+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:38:49+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:38:49+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:38:49+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:38:50+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:38:50+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:38:50+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:38:51+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home4/newfireg/public_html/store1/lib/Zend/Controller/Response/Abstract.php:768
+[2] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Model/App.php:354
+[5] /home4/newfireg/public_html/store1/app/Mage.php:684
+[6] /home4/newfireg/public_html/store1/index.php:87
+</pre>
+2016-02-09T00:38:59+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:39:00+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:39:00+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:39:00+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:39:00+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:39:00+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:39:03+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:39:03+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:39:03+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:39:08+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:39:08+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:39:08+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:40:05+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:40:05+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:40:05+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:40:05+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:40:06+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:40:06+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:40:17+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:40:17+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:40:17+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:40:18+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:40:18+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:40:18+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:40:22+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:40:22+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:40:22+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:40:26+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:40:26+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:40:26+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:40:46+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:40:46+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:40:46+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:40:46+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:40:47+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:40:47+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:40:51+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:40:51+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:40:51+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:40:52+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:40:52+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:40:52+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:40:53+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home4/newfireg/public_html/store1/lib/Zend/Controller/Response/Abstract.php:768
+[2] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Model/App.php:354
+[5] /home4/newfireg/public_html/store1/app/Mage.php:684
+[6] /home4/newfireg/public_html/store1/index.php:87
+</pre>
+2016-02-09T00:40:53+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home4/newfireg/public_html/store1/lib/Zend/Controller/Response/Abstract.php:768
+[2] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Model/App.php:354
+[5] /home4/newfireg/public_html/store1/app/Mage.php:684
+[6] /home4/newfireg/public_html/store1/index.php:87
+</pre>
+2016-02-09T00:40:53+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home4/newfireg/public_html/store1/lib/Zend/Controller/Response/Abstract.php:768
+[2] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Model/App.php:354
+[5] /home4/newfireg/public_html/store1/app/Mage.php:684
+[6] /home4/newfireg/public_html/store1/index.php:87
+</pre>
+2016-02-09T00:40:53+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home4/newfireg/public_html/store1/lib/Zend/Controller/Response/Abstract.php:768
+[2] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Model/App.php:354
+[5] /home4/newfireg/public_html/store1/app/Mage.php:684
+[6] /home4/newfireg/public_html/store1/index.php:87
+</pre>
+2016-02-09T00:40:53+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home4/newfireg/public_html/store1/lib/Zend/Controller/Response/Abstract.php:768
+[2] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Model/App.php:354
+[5] /home4/newfireg/public_html/store1/app/Mage.php:684
+[6] /home4/newfireg/public_html/store1/index.php:87
+</pre>
+2016-02-09T00:41:04+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home4/newfireg/public_html/store1/lib/Zend/Controller/Response/Abstract.php:768
+[2] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Model/App.php:354
+[5] /home4/newfireg/public_html/store1/app/Mage.php:684
+[6] /home4/newfireg/public_html/store1/index.php:87
+</pre>
+2016-02-09T00:41:04+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home4/newfireg/public_html/store1/lib/Zend/Controller/Response/Abstract.php:768
+[2] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Model/App.php:354
+[5] /home4/newfireg/public_html/store1/app/Mage.php:684
+[6] /home4/newfireg/public_html/store1/index.php:87
+</pre>
+2016-02-09T00:41:04+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home4/newfireg/public_html/store1/lib/Zend/Controller/Response/Abstract.php:768
+[2] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Model/App.php:354
+[5] /home4/newfireg/public_html/store1/app/Mage.php:684
+[6] /home4/newfireg/public_html/store1/index.php:87
+</pre>
+2016-02-09T00:41:04+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home4/newfireg/public_html/store1/lib/Zend/Controller/Response/Abstract.php:768
+[2] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Model/App.php:354
+[5] /home4/newfireg/public_html/store1/app/Mage.php:684
+[6] /home4/newfireg/public_html/store1/index.php:87
+</pre>
+2016-02-09T00:41:05+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home4/newfireg/public_html/store1/lib/Zend/Controller/Response/Abstract.php:768
+[2] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Model/App.php:354
+[5] /home4/newfireg/public_html/store1/app/Mage.php:684
+[6] /home4/newfireg/public_html/store1/index.php:87
+</pre>
+2016-02-09T00:41:06+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:41:06+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:41:06+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:41:07+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:41:07+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:41:07+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:41:10+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:41:10+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:41:10+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:41:14+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:41:14+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:41:14+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:42:32+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:42:32+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:42:32+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T00:42:33+00:00 ERR (3): Notice: Undefined variable: product_timmer_id  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 33
+2016-02-09T00:42:33+00:00 ERR (3): Notice: Undefined variable: count  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 60
+2016-02-09T00:42:33+00:00 ERR (3): Notice: Undefined variable: fromDate  in /home4/newfireg/public_html/store1/app/design/frontend/ma_sozo/ma_sozo1/template/page/html/header.phtml on line 61
+2016-02-09T01:02:30+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home4/newfireg/public_html/store1/lib/Zend/Controller/Response/Abstract.php:768
+[2] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /home4/newfireg/public_html/store1/app/code/core/Mage/Core/Model/App.php:354
+[5] /home4/newfireg/public_html/store1/app/Mage.php:684
+[6] /home4/newfireg/public_html/store1/index.php:87
+</pre>

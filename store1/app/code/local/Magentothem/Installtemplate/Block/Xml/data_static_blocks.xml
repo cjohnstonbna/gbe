@@ -1,0 +1,297 @@
+<?xml version="1.0"?>
+<ma_sozo1>
+    <blocks>
+	
+		<block>
+            <title>Menu Links</title>
+            <identifier>pt_menu_links</identifier>
+            <content>
+                    <![CDATA[
+						<ul>
+							<li class="first"><a href="{{store direct_url="bestsellerproductlist"}}">Bestseller products</a></li>
+							<li><a href="{{store direct_url="newproductlist"}}">new products</a></li>
+							<li class="last"><a href="{{store direct_url="about-magento-demo-store"}}">about us</a></li>
+						</ul>
+					]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+		
+		<block>
+            <title>Footer Static</title>
+            <identifier>footer_static</identifier>
+            <content>
+                    <![CDATA[
+							<div class="row">
+							<div class="f-col f-col-1 col-lg-2 col-md-2 col-sm-6 col-sms6 col-smb12">
+							<div class="footer-block-content">
+							<div class="footer-static-title">
+							<h3>MY ACCOUNT</h3>
+							</div>
+							<div class="footer-static-content">
+							<ul>
+							<li class="first"><a href="{{store direct_url="customer/account/index"}}">My Account</a></li>
+							<li><a href="{{store direct_url="sales/order/history/"}}">Order History</a></li>
+							<li><a href="{{store direct_url="sales/order/history/"}}">Specials</a></li>
+							<li><a href="#">Dynamicus</a></li>
+							<li><a href="#">Shipping Options</a></li>
+							<li class="last"><a href="{{store direct_url="catalog/seo_sitemap/category"}}">Site Map</a></li>
+							</ul>
+							</div>
+							</div>
+							</div>
+							<div class="f-col f-col-2 col-lg-2 col-md-2 col-sm-6 col-sms6 col-smb12">
+							<div class="footer-block-content">
+							<div class="footer-static-title">
+							<h3>INFORMATION</h3>
+							</div>
+							<div class="footer-static-content">
+							<ul>
+							<li class="first"><a href="{{store direct_url="catalog/seo_sitemap/category"}}">Site Map</a></li>
+							<li><a href="{{store direct_url="about-magento-demo-store"}}">About us</a></li>
+							<li><a href="{{store direct_url="sales/order/history/"}}">Order History</a></li>
+							<li><a href="{{store direct_url="customer-service"}}">Custom Service</a></li>
+							<li><a href="#">Dynamicus</a></li>
+							<li class="last"><a href="{{store direct_url="catalogsearch/term/popular"}}">Terms &amp; Condition</a></li>
+							</ul>
+							</div>
+							</div>
+							</div>
+							<div class="f-col f-col-3 col-lg-2 col-md-2 col-sm-6 col-sms6 col-smb12">
+							<div class="footer-block-content">
+							<div class="footer-static-title">
+							<h3>OTHER STATIC LINK</h3>
+							</div>
+							<div class="footer-static-content">
+							<ul>
+							<li class="first"><a href="{{store direct_url="catalog/seo_sitemap/category"}}">Sitemap</a></li>
+							<li><a href="{{store direct_url="privacy-policy-cookie-restriction-mode"}}">Privacy Policy</a></li>
+							<li><a href="{{store direct_url="catalogsearch/advanced"}}">Advanced Search</a></li>
+							<li><a href="#">Dynamicus</a></li>
+							<li><a href="{{store direct_url="customer-service"}}">Custom Service</a></li>
+							<li class="last"><a href="{{store direct_url="contacts"}}">Contact Us</a></li>
+							</ul>
+							</div>
+							</div>
+							</div>
+							<div class="f-col f-col-4 col-lg-3 col-md-3 col-sm-6 col-sms6 col-smb12">
+							<div class="footer-block-content">
+							<div class="footer-static-content">
+							<ul class="link-contact">
+							<li><i class="fa fa-phone"> &nbsp;</i>Phone: (012) 345 6789</li>
+							<li><i class="fa fa-truck"> &nbsp;</i>Free shipping anywhere worldwide</li>
+							<li><i class="fa fa-unlock-alt"> &nbsp;</i>100% Secure for payment</li>
+							<li><i class="fa fa-headphones">&nbsp; </i>24/24 online support custome</li>
+							</ul>
+							</div>
+							</div>
+							</div>
+							<div class="f-col f-col-5 col-lg-3 col-md-3 col-sm-6 col-sms6 col-smb12">
+							<div class="footer-block-content">
+							<div class="footer-static-content">{{block type="newsletter/subscribe" name="left.newsletter" template="newsletter/subscribe.phtml"}}
+							<div class="payment-method">
+							<h3>Payments</h3>
+							<p class="payment"><img alt="" src="{{media url="wysiwyg/payment.png"}}" /></p>
+							</div>
+							</div>
+							</div>
+							</div>
+							</div>
+					]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+		
+		<block>
+            <title>Contact Us</title>
+            <identifier>contact_us</identifier>
+            <content>
+                    <![CDATA[
+							<div class="contact-us"><iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6305.678625317825!2d-122.39957047637722!3d37.793805380191266!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80858063d63a0215%3A0xcba0af2dfe02048f!2s101+California+Street%2C+San+Francisco%2C+CA+94111%2C+Hoa+K%E1%BB%B3!5e0!3m2!1svi!2s!4v1419099932976" height="350" width="100%"></iframe></div>
+					]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+		
+		<block>
+            <title>Banner Home1</title>
+            <identifier>banner_home1</identifier>
+            <content>
+                    <![CDATA[
+						<div class="banner-home">
+						<div class="row">
+						<div class="col-sm-8 col-md-8 col-sms-12">
+						<div class="box-col"><a href="{{store direct_url="laptop.html"}}"><img alt="" src="{{media url="wysiwyg/banner12.jpg"}}" /></a></div>
+						</div>
+						<div class="col-sm-4 col-md-4 col-sms-12">
+						<div class="box-col box-col-1"><a href="{{store direct_url="laptop.html"}}"><img alt="" src="{{media url="wysiwyg/banner13.jpg"}}" /></a></div>
+						</div>
+						</div>
+						</div>
+					]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+		
+		<block>
+            <title>Ma Block Static 1</title>
+            <identifier>ma_block_static_1</identifier>
+            <content>
+                    <![CDATA[
+						<div class="ma-block-static-1 banner-static">
+						<div class="box-col box-col-1"><a href="{{store direct_url="laptop.html"}}"><img alt="" src="{{media url="wysiwyg/banner11.jpg"}}" /></a></div>
+						<div class="box-col box-col-2"><a href="{{store direct_url="laptop.html"}}"><img alt="" src="{{media url="wysiwyg/banner12.jpg"}}" /></a></div>
+						<div class="box-col box-col-3"><a href="{{store direct_url="laptop.html"}}"><img alt="" src="{{media url="wysiwyg/banner13.jpg"}}" /></a></div>
+						</div>
+					]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+		
+		<block>
+            <title>Ma Block Static 2</title>
+            <identifier>ma_block_static_2</identifier>
+            <content>
+                    <![CDATA[
+						<div class="banner-home">
+						<div class="row">
+						<div class="col-lg-4 col-sm-4 col-md-4 col-sms-12">
+						<div class="box-col box-col-1"><a href="{{store direct_url="laptop.html"}}"><img alt="" src="{{media url="wysiwyg/banner14.jpg"}}" /></a></div>
+						<div class="box-col box-col-2"><a href="{{store direct_url="laptop.html"}}"><img alt="" src="{{media url="wysiwyg/banner15.jpg"}}" /></a></div>
+						</div>
+						<div class="col-lg-4 col-sm-4 col-md-4 col-sms-12">
+						<div class="box-col box-col-3"><a href="{{store direct_url="laptop.html"}}"><img alt="" src="{{media url="wysiwyg/banner16.jpg"}}" /></a></div>
+						</div>
+						<div class="col-lg-4 col-sm-4 col-md-4 col-sms-12">
+						<div class="box-col box-col-4"><a href="{{store direct_url="laptop.html"}}"><img alt="" src="{{media url="wysiwyg/banner17.jpg"}}" /></a></div>
+						<div class="box-col box-col-5"><a href="{{store direct_url="laptop.html"}}"><img alt="" src="{{media url="wysiwyg/banner18.jpg"}}" /></a></div>
+						</div>
+						</div>
+						</div>
+					]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+		
+		<block>
+            <title>Footer Logo</title>
+            <identifier>footer_logo</identifier>
+            <content>
+                    <![CDATA[
+						<div><a href="{{store direct_url=""}}"><img alt="" src="{{media url="wysiwyg/logo-footer.png"}}" /></a></div>
+					]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+		
+		<block>
+            <title>Footer Social</title>
+            <identifier>footer_social</identifier>
+            <content>
+                    <![CDATA[
+						<ul class="link-follow">
+						<li class="first"><a class="facebook fa fa-facebook" href="https://www.facebook.com/plazathemes"><span>facebook</span></a></li>
+						<li><a class="rss fa fa-rss" href="#"><span>rss</span></a></li>
+						<li><a class="twitter fa fa-twitter" href="https://twitter.com/plazathemes"><span>twitter</span></a></li>
+						<li class="last"><a class="google fa fa-google-plus" href="#"><span>google </span></a></li>
+						</ul>
+					]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+		
+		<block>
+            <title>Block Add</title>
+            <identifier>block_add</identifier>
+            <content>
+                    <![CDATA[
+						<div><a href="http://plazathemes.com/"><img alt="" src="{{media url="wysiwyg/block_add.jpg"}}" /></a></div>
+					]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+		
+		<block>
+            <title>Banner Left</title>
+            <identifier>banner_left</identifier>
+            <content>
+                    <![CDATA[
+						<div class="banner-left"><a href="{{store direct_url="laptop.html"}}"><img alt="" src="{{media url="wysiwyg/category_electronic.jpg"}}" /></a></div>
+					]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+		
+		<block>
+            <title>Block View</title>
+            <identifier>block_view</identifier>
+            <content>
+                    <![CDATA[
+						<div class="block-view">
+						<div class="top-block-view">
+						<p class="block-view-item block-free">Free shipping anywhere worldwide</p>
+						<p class="block-view-item block-secure">100% Secure for payment</p>
+						</div>
+						<div class="bottom-block-view">
+						<p class="block-view-item block-support">24/24 online support custome</p>
+						<p class="block-view-item block-phone">Phone: +0123456789</p>
+						</div>
+						</div>
+					]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+		<block>
+            <title>Block Menu</title>
+            <identifier>pt_menu_idcat_3_right</identifier>
+            <content>
+                    <![CDATA[
+						<div><a href="#"><img alt="" src="{{media url="wysiwyg/block_right_menu.jpg"}}" /></a></div>
+					]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+		
+		<block>
+            <title>Banner Home2</title>
+            <identifier>banner_home2</identifier>
+            <content>
+                    <![CDATA[
+							<div class="banner-home">
+							<div class="row">
+							<div class="col-sm-7 col-md-7 col-sms-12">
+							<div class="box-col"><a href="{{store direct_url="laptop.html"}}"><img alt="" src="{{media url="wysiwyg/banner23.jpg"}}" /></a></div>
+							</div>
+							<div class="col-sm-5 col-md-5 col-sms-12">
+							<div class="box-col box-col-1"><a href="{{store direct_url="laptop.html"}}"><img alt="" src="{{media url="wysiwyg/banner24.jpg"}}" /></a></div>
+							</div>
+							</div>
+							</div>
+					]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+		
+		<block>
+            <title>Banner Home21</title>
+            <identifier>banner_home21</identifier>
+            <content>
+                    <![CDATA[
+						<div class="banner-home">
+						<div class="row">
+						<div class="col-sm-7 col-md-7 col-sms-12">
+						<div class="box-col"><a href="{{store direct_url="laptop.html"}}"><img alt="" src="{{media url="wysiwyg/banner21.jpg"}}" /></a></div>
+						</div>
+						<div class="col-sm-5 col-md-5 col-sms-12">
+						<div class="box-col box-col-1"><a href="{{store direct_url="laptop.html"}}"><img alt="" src="{{media url="wysiwyg/banner22.jpg"}}" /></a></div>
+						</div>
+						</div>
+						</div>
+					]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+
+    </blocks>
+</ma_sozo1>
+

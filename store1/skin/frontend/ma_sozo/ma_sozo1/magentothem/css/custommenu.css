@@ -1,0 +1,174 @@
+/*===custommenu==============*/ 
+
+.pt_custommenu {
+position:relative;
+z-index:1000;
+margin:0 auto;
+float: left;
+}
+.pt_custommenu div.pt_menu {
+    float: left;
+}
+/*.pt_custommenu .parentMenu{padding: 0 20px}*/
+.pt_custommenu div.pt_menu .parentMenu a,
+.pt_custommenu div.pt_menu .parentMenu span.block-title{
+padding:12px 19px;
+text-decoration: none;
+display:block;
+text-transform:uppercase;
+font-size:1.25em;
+position: relative;
+color: #fff;
+font-weight: 700;
+border:1px solid transparent;
+border-radius: 5px;
+}
+/*#pt_menu_home a span {
+display: block;
+text-indent: -99999px;
+width: 19px;
+height: 18px;
+background: url(../images/icon-home.png) no-repeat 0 100%;
+}*/
+.pt_custommenu div.pt_menu.act a,
+.pt_custommenu div.pt_menu.active .parentMenu,
+.pt_custommenu #pt_menu_pt_item_menu_custom_menu.active span
+{
+background-color: #4b4b4b;
+border-color: #393939
+}
+#pt_menu_pt_item_menu_custom_menu.active .parentMenu span,
+#pt_menu_pt_item_menu_featured_custom.active .parentMenu span
+{cursor: pointer;
+color:#ffa200;
+}
+.pt_custommenu div.pt_menu.active {}
+
+.pt_custommenu div.pt_menu.act .itemSubMenu .itemMenuName:hover{color:#c1a300}
+.pt_custommenu div.pt_menu.act .itemSubMenu .itemMenuName{color:#444444}
+.pt_custommenu div.pt_menu.act .itemMenu .itemMenuName
+#pt_menu_home a{padding-left: 0}
+.pt_custommenu div.pt_menu.active {
+}
+#block2_pt_item_menu_featured_custom{margin: 0}
+#popup_pt_item_menu_featured_custom{width: 1140px !important ;left: 0 !important }
+.pt_custommenu div.popup {
+position:absolute;
+z-index:3000;
+text-align:left;
+width: 904px;
+padding: 0;
+margin: 0;
+border: 1px solid #eee;
+border-bottom:3px solid #c1a300;
+border-top-color: #fff;
+background-color:#fff;
+}
+.pt_custommenu div.pt_menu .parentMenu:hover,
+.pt_custommenu div.pt_menu .parentMenu span.block-title:hover,
+.pt_custommenu #pt_menu_link ul li a.act,
+.pt_custommenu #pt_menu_link ul li a:hover {
+    background-color: #4b4b4b;
+    border-color: #393939
+}
+.pt_custommenu div.popup a {
+    text-decoration: none;
+    display:block;
+    line-height:28px;
+}
+.pt_custommenu .itemMenu h4.level1,
+.pt_custommenu .itemMenu a.level1{
+ font-size: 16px;
+font-weight: normal;
+text-transform: uppercase;
+line-height: 20px;
+margin-bottom: 10px;
+color: #000
+}
+.pt_custommenu .itemMenu h4.level1 span,
+.pt_custommenu .itemMenu a.level1 span{
+ display: inline-block;
+ background-color: #fff;
+ padding-right: 20px   
+}
+.pt_custommenu .itemMenu h4.level1:hover,
+.pt_custommenu .itemMenu a.level1:hover {
+    color:#c1a300 !important;
+/*    text-decoration: underline;*/
+}
+.pt_custommenu .itemSubMenu h4.level2,
+.pt_custommenu .itemSubMenu a.level2,
+.pt_custommenu .itemSubMenu h4.level3,
+.pt_custommenu .itemSubMenu a.level3
+{
+text-transform:capitalize;
+font-weight: normal;
+font-size: 14px;
+line-height: 35px;
+border-bottom: 1px solid #ddd;
+}
+.pt_custommenu .itemSubMenu a.level2:hover,
+.pt_custommenu .itemMenu a.level1.nochild:hover{
+color: #c1a300;
+/*background-position: 0 -12px;*/
+/*text-decoration: underline;*/
+}
+.pt_custommenu div.popup a.actParent {
+    color: #c1a300;
+}
+.pt_custommenu div.popup a.act {
+    color:#c1a300 !important;
+}
+.pt_custommenu div.column {
+    float:left;
+    width:200px; /* column width */
+    margin-right:25px;
+}
+.pt_custommenu div.column.last {
+    border-right: 0 none;
+    margin-right: 0;
+    padding-right: 0;
+}
+.pt_custommenu div.itemSubMenu {}
+.pt_custommenu .block2{
+    margin-top: 10px;
+    float: left;
+}
+.pt_custommenu div.popup .block1{
+    overflow: hidden;
+    float: left;
+    padding:30px 30px 40px;
+}
+.pt_custommenu div.popup .block1 .column{
+    margin-bottom: -99999px;
+    padding-bottom: 99999px;
+}
+.pt_custommenu div.popup .blockright img{
+    max-width: 100%;
+} 
+
+.pt_custommenu div.pt_menu .parentMenu p{
+    margin: 0;
+    padding: 0;
+}
+.pt_custommenu #pt_menu_link{
+    padding: 0;
+}
+.pt_custommenu #pt_menu_link .parentMenu ul li{
+    float: left;
+    list-style: none;
+}
+.pt_custommenu .clearBoth {
+    clear:both;
+}
+@media(max-width: 1599px){
+    .pt_custommenu div.pt_menu .parentMenu a,
+.pt_custommenu div.pt_menu .parentMenu span.block-title{ padding: 12px 15px;}
+.pt_custommenu div.pt_menu .parentMenu .last a{ display: none;}
+}
+@media(max-width: 1199px){
+.pt_custommenu div.pt_menu .parentMenu a, .pt_custommenu div.pt_menu .parentMenu span.block-title{padding-left:10px;padding-right: 10px}
+}
+/*===end-custommenu==============*/ 
+
+

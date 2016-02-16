@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <catalog_product_preview translate="label">
+        <label>Catalog Product Preview (Any)</label>
+        <reference name="head">
+            <action method="addCss"><name>css/previewproduct.css</name></action>
+        </reference>
+        <reference name="after_body_start">
+            <block type="previewproduct/catalog_product_preview_overlay" name="product.preview.overlay" as="product_preview_overlay" template="previewproduct/catalog/product/preview/overlay.phtml" />
+        </reference>
+    </catalog_product_preview>
+</layout>

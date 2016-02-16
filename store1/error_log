@@ -1,0 +1,8 @@
+1436279384: /home4/newfireg/public_html/store1/ssv3_installer_payload-1SmiS8QRv3.php startup
+[09-Jul-2015 19:29:06 UTC] PHP Parse error:  syntax error, unexpected 'imagestringup' (T_STRING) in /home4/newfireg/public_html/store1/app/code/community/MDN/BarcodeLabel/Helper/Label.php on line 350
+[09-Jul-2015 19:29:25 UTC] PHP Parse error:  syntax error, unexpected 'imagestringup' (T_STRING) in /home4/newfireg/public_html/store1/app/code/community/MDN/BarcodeLabel/Helper/Label.php on line 350
+[15-Feb-2016 15:31:49 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home4/newfireg/public_html/store1/lib/Varien/Object.php on line 213
+[15-Feb-2016 15:33:27 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home4/newfireg/public_html/store1/app/code/core/Zend/Db/Statement.php on line 199
+[15-Feb-2016 15:34:28 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home4/newfireg/public_html/store1/app/code/core/Mage/Catalog/Model/Url.php on line 351
+[15-Feb-2016 15:35:38 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home4/newfireg/public_html/store1/lib/Zend/Db/Adapter/Abstract.php on line 1045
+[15-Feb-2016 15:36:44 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home4/newfireg/public_html/store1/lib/Varien/Db/Adapter/Pdo/Mysql.php on line 3734
